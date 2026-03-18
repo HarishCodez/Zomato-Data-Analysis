@@ -16,13 +16,13 @@ This project analyzes restaurant data from Zomato to understand customer prefere
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-<img src="zomato-main.png" width="800"/>
+<img src="Zomato-main.png" width="800"/>
 
 ### 🔹 Analysis Dashboard 1
-<img src="zomato-dashboard1.png" width="800"/>
+<img src="Zomato-dashboard1.png" width="800"/>
 
 ### 🔹 Analysis Dashboard 2
-<img src="zomato-dashboard2.png" width="800"/>
+<img src="Zomato-dashboard2.png" width="800"/>
 
 ## 🚀 Conclusion
 This dashboard helps businesses understand customer behavior and improve service quality and growth strategies.
